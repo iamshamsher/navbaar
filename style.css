@@ -1,0 +1,35 @@
+body{
+    background-image: url(image/photo-1531297484001-80022131f5a1.jpg);
+    opacity: 0.8;
+    
+    
+}
+nav{
+    float: right;
+    position: relative;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+li{
+    display: inline;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ul li a{
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding: 10px 25px;
+    text-decoration: none; 
+    color: #fff;
+    
+}
+ul li a:hover{
+    background-color:#006699;
+}
+.container{
+    color: #fff;
+   
+}
